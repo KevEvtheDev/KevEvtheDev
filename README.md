@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevEvtheDev
+- 👋 Hi, I’m Kevin Evans 
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning HTML, CSS, JS, Python
 - 💞️ I’m looking to collaborate on projects that will expand my skills
